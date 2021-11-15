@@ -1,0 +1,108 @@
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.deps.json
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.runtimeconfig.json
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.runtimeconfig.dev.json
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.dll
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.pdb
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.Views.dll
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.Views.pdb
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csprojAssemblyReference.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csproj.CoreCompileInputs.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorAssemblyInfo.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorAssemblyInfo.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.AssemblyInfoInputs.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.AssemblyInfo.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.TagHelpers.input.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.TagHelpers.output.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorCoreGenerate.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\BenhVien\Index.g.cshtml.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_LayoutHome.g.cshtml.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorTargetAssemblyInfo.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorTargetAssemblyInfo.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.Views.pdb
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.dll
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.pdb
+D:\TheoDoiSoThuTu\ChuanThayDay\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csproj.CopyComplete
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.deps.json
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.runtimeconfig.json
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.runtimeconfig.dev.json
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.dll
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.pdb
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.Views.dll
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.Views.pdb
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csprojAssemblyReference.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csproj.CoreCompileInputs.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorAssemblyInfo.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorAssemblyInfo.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.AssemblyInfoInputs.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.AssemblyInfo.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.TagHelpers.input.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.TagHelpers.output.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorCoreGenerate.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\BenhVien\Index.g.cshtml.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_LayoutHome.g.cshtml.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorTargetAssemblyInfo.cache
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorTargetAssemblyInfo.cs
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.Views.pdb
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.dll
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.pdb
+D:\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csproj.CopyComplete
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.deps.json
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.runtimeconfig.json
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.runtimeconfig.dev.json
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.dll
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.pdb
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.Views.dll
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.Views.pdb
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csprojAssemblyReference.cache
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csproj.CoreCompileInputs.cache
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorAssemblyInfo.cache
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorAssemblyInfo.cs
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.AssemblyInfoInputs.cache
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.AssemblyInfo.cs
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.TagHelpers.input.cache
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.TagHelpers.output.cache
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorCoreGenerate.cache
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\BenhVien\Index.g.cshtml.cs
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_LayoutHome.g.cshtml.cs
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorTargetAssemblyInfo.cache
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorTargetAssemblyInfo.cs
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.Views.pdb
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.dll
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.pdb
+E:\nghiem\DuAn\SeverTBSoTT\Chuan030120120\TheoDoiSoThuTu\ChuanThayDay\chuẩn sql thay đổi không data\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csproj.CopyComplete
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.deps.json
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.runtimeconfig.json
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.runtimeconfig.dev.json
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.dll
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.pdb
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.Views.dll
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\bin\Release\netcoreapp2.1\SeverBVSTT.Views.pdb
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csprojAssemblyReference.cache
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csproj.CoreCompileInputs.cache
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorAssemblyInfo.cache
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorAssemblyInfo.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.AssemblyInfoInputs.cache
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.AssemblyInfo.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.TagHelpers.input.cache
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.TagHelpers.output.cache
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorCoreGenerate.cache
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\BenhVien\Index.g.cshtml.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_LayoutHome.g.cshtml.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorTargetAssemblyInfo.cache
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.RazorTargetAssemblyInfo.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.Views.pdb
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.dll
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.pdb
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\SeverBVSTT.csproj.CopyComplete
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Auth\Denied.g.cshtml.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\BenhVien\BC_PKBS.g.cshtml.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_LayoutBV.g.cshtml.cs
+E:\nghiem\DuAn\SeverGoiSTT04012020_SuaLoi\WebAppShop\WebApp\obj\Release\netcoreapp2.1\Razor\Views\BenhVien\MotPhong.g.cshtml.cs

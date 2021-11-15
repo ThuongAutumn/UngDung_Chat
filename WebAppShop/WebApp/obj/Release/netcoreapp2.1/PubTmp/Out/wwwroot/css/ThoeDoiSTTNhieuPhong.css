@@ -1,0 +1,24 @@
+﻿.ThanChinh {    
+}
+.PhongKham {
+    
+}
+.ChiMuc {
+    color: mediumblue !important;
+}
+
+.back-to-top {
+    /*position: fixed;*/
+    top: auto;
+    left: auto;
+    right: 15px;
+    bottom: 15px;
+    font-size: 18px;
+    opacity: 0.8;
+    z-index: 200;
+    cursor: pointer;
+}
+
+.back-to-top:hover {
+    opacity: 1;
+}
