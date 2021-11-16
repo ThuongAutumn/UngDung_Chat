@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D34u+4pyRLXUtkZINSIw3G5R7b4DJwT8PskQgNZQvRpY3koSEYE72+bl9QXa9O3bosZg427s8WYh5ChSLC4V5w==",
+  "dgSpecHash": "tWusTJsTQ7ECc1hRlwHpbFPsDFcZz42xNHVhJyGpdwOCOb10kp1q3sE2Kv+Bsi+rhM7RzP4k9AsMpyoLBYHvXA==",
   "success": true,
-  "projectFilePath": "E:\\Nam3\\Ky1\\LT_Mang\\BaoCao\\Code\\16112021\\SeverBVSTT\\SeverBVSTT\\SeverBVSTT.csproj",
+  "projectFilePath": "E:\\Nam3\\Ky1\\LT_Mang\\git_chat\\LMT_Chat\\SeverBVSTT\\SeverBVSTT\\SeverBVSTT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

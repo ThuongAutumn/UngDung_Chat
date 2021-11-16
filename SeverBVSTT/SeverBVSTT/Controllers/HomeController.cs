@@ -39,7 +39,7 @@ namespace SeverBVSTT.Controllers
                             long Id = Helper.RandomLong();
                             ClaimsIdentity claims = new ClaimsIdentity(CookieAuthenticationDefaults.AuthenticationScheme);
                             claims.AddClaim(new Claim(ClaimTypes.NameIdentifier, Id.ToString()));// id phân biệt
-                            claims.AddClaim(new Claim(ClaimTypes.Name, obj.User));// mã bệnh viện
+                            claims.AddClaim(new Claim(ClaimTypes.Name, obj.User));// mã đăng nhập
                             claims.AddClaim(new Claim(ClaimTypes.Role, "hgsoft"));// phân quyền
                             AuthenticationProperties properties = new AuthenticationProperties
                             {

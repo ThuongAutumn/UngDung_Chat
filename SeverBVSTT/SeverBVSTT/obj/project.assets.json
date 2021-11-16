@@ -12629,11 +12629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Nam3\\Ky1\\LT_Mang\\BaoCao\\Code\\16112021\\SeverBVSTT\\SeverBVSTT\\SeverBVSTT.csproj",
+      "projectUniqueName": "E:\\Nam3\\Ky1\\LT_Mang\\git_chat\\LMT_Chat\\SeverBVSTT\\SeverBVSTT\\SeverBVSTT.csproj",
       "projectName": "SeverBVSTT",
-      "projectPath": "E:\\Nam3\\Ky1\\LT_Mang\\BaoCao\\Code\\16112021\\SeverBVSTT\\SeverBVSTT\\SeverBVSTT.csproj",
+      "projectPath": "E:\\Nam3\\Ky1\\LT_Mang\\git_chat\\LMT_Chat\\SeverBVSTT\\SeverBVSTT\\SeverBVSTT.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Nam3\\Ky1\\LT_Mang\\BaoCao\\Code\\16112021\\SeverBVSTT\\SeverBVSTT\\obj\\",
+      "outputPath": "E:\\Nam3\\Ky1\\LT_Mang\\git_chat\\LMT_Chat\\SeverBVSTT\\SeverBVSTT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
