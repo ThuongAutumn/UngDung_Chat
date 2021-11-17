@@ -1,0 +1,10 @@
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\bin\Debug\client.exe.config
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\bin\Debug\client.exe
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\bin\Debug\client.pdb
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\obj\Debug\client.Client.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\obj\Debug\client.Properties.Resources.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\obj\Debug\client.exe
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\obj\Debug\client.pdb
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\client\obj\Debug\client.csprojAssemblyReference.cache

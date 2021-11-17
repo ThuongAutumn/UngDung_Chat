@@ -1,0 +1,10 @@
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\bin\Debug\loginClient.exe.config
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\bin\Debug\loginClient.exe
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\bin\Debug\loginClient.pdb
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\obj\Debug\loginClient.Client.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\obj\Debug\loginClient.loginClient.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\obj\Debug\loginClient.Properties.Resources.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\obj\Debug\loginClient.csproj.GenerateResource.cache
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\obj\Debug\loginClient.csproj.CoreCompileInputs.cache
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\obj\Debug\loginClient.exe
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\loginClient\obj\Debug\loginClient.pdb

@@ -1,0 +1,9 @@
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\obj\Debug\server.Properties.Resources.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\obj\Debug\sever.sever.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\obj\Debug\server.csproj.GenerateResource.cache
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\bin\Debug\server.exe.config
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\bin\Debug\server.exe
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\bin\Debug\server.pdb
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\obj\Debug\server.exe
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\server\obj\Debug\server.pdb

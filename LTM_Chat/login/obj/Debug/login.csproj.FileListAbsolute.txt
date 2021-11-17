@@ -1,0 +1,10 @@
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\bin\Debug\login.exe.config
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\bin\Debug\login.exe
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\bin\Debug\login.pdb
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\obj\Debug\login.Server.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\obj\Debug\login.Login.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\obj\Debug\login.Properties.Resources.resources
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\obj\Debug\login.csproj.GenerateResource.cache
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\obj\Debug\login.exe
+E:\Nam3\Ky1\LT_Mang\TaiLieu\Qui\LTM_Chat\login\obj\Debug\login.pdb
